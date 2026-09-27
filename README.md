@@ -28,5 +28,16 @@ Autopsy identified an Excel file named `excel.xls`.
 
 The file was examined using Autopsy's File Metadata and Text views. No conclusion of data theft can be made from this file alone.
 
+## Finding 2 - PowerPoint File Metadata
+
+Autopsy identified a PowerPoint file named `powerpnt.ppt`.
+
+- File type: Microsoft PowerPoint
+- Size: 12,288 bytes
+- Location: Administrator/Templates
+- Status: Allocated
+
+The file metadata was examined in Autopsy. This file alone does not provide evidence of data theft.
+
 ## Status
 In progress.
