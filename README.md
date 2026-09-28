@@ -39,5 +39,17 @@ Autopsy identified a PowerPoint file named `powerpnt.ppt`.
 
 The file metadata was examined in Autopsy. This file alone does not provide evidence of data theft.
 
+## Conclusion
+
+The forensic image was examined using Autopsy.
+
+Two Office files were identified and their metadata was analysed:
+- `excel.xls`
+- `powerpnt.ppt`
+
+The investigation demonstrated how Autopsy can be used to examine file metadata, timestamps, file locations, and file types.
+
+No evidence of data theft was confirmed from the files examined.
+
 ## Status
 In progress.
