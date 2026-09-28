@@ -52,4 +52,4 @@ The investigation demonstrated how Autopsy can be used to examine file metadata,
 No evidence of data theft was confirmed from the files examined.
 
 ## Status
-In progress.
+completed
